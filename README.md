@@ -1,2 +1,2 @@
 # picture-diluter
-Reduces the picture resolution to the specified %, so as to reduce the file size so that it will be easy to upload the pictures to size restrained sites or email attachments.
+Picture-diluter is a java desktop app (in swing) to reduces the picture resolution to a specified %, so as to reduce the file size. Works on a list of pictures at one go.
